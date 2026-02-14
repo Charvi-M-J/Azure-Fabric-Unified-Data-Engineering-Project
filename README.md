@@ -13,7 +13,7 @@ The solution implements:
 • Workflow Orchestration
 • Delta Table Optimization
 
-📸Screenshot
+📸Screenshots
 ![image alt](https://github.com/Charvi-M-J/Azure-Fabric-Unified-Data-Engineering-Project/blob/a0f1deab42c20afed7ef1f414464deb479ea641f/screenshot/Screenshot%202026-02-13%20230253.png)
 ![image alt](https://github.com/Charvi-M-J/Azure-Fabric-Unified-Data-Engineering-Project/blob/5e345a80b4e5c47693cbac7e6bbe2c2da99b16db/screenshot/Screenshot%202026-02-09%20171658.png)
 ![image alt](https://github.com/Charvi-M-J/Azure-Fabric-Unified-Data-Engineering-Project/blob/5e345a80b4e5c47693cbac7e6bbe2c2da99b16db/screenshot/Screenshot%202026-02-12%20002345.png)
