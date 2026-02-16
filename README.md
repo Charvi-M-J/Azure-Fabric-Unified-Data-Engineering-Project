@@ -1,4 +1,4 @@
-# Azure-Fabric-Unified-Data-Engineering-Project
+# Azure-Fabric-Autoloader-Data-Engineering Project
 📌 Project Overview
 This project implements a complete end-to-end Lakehouse data engineering pipeline using Microsoft Fabric, following the Medallion Architecture design pattern. Incremental data ingestion is handled using Autoloader, 
 which efficiently loads new and modified files into the Bronze layer as raw Delta tables, ensuring scalable and optimized processing. In the Silver layer, data is cleaned, standardized, and enriched using PySpark
